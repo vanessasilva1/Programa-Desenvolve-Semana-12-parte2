@@ -1,0 +1,1 @@
+//possibilidade de uma subclass()que herdam, usarem um método de todos com um comportamento diferente.

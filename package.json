@@ -1,0 +1,22 @@
+{
+  "name": "programa-desenvolve-semana-12-parte2",
+  "version": "1.0.0",
+  "description": "Semana 12 Programa Desenvolve - Programação Orientada a Objetos",
+  "type" : "module",
+  "main": "apply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessasilva1/Programa-Desenvolve-Semana-12-parte2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessasilva1/Programa-Desenvolve-Semana-12-parte2/issues"
+  },
+  "homepage": "https://github.com/vanessasilva1/Programa-Desenvolve-Semana-12-parte2#readme"
+}
+
